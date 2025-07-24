@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# My name is Kajal Khutela
+# Hi 👋, I am Kajal Khutela 
