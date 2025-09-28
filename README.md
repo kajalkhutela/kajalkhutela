@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - 📫 Reach me at: [LinkedIn](https://in.linkedin.com/in/kajal-khutela-746309387) | [Email](mailto: kajalkhutela2509@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=KajalKhutela&color=blue&style=flat)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KajalKhutela&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🛠️ Languages and Tools:
 
