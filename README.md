@@ -13,8 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi 👋, I am Kajal Khutela 
 
+# Hi there, I'm Kajal 👋
+
+- 🌱 Currently learning **Data Structures & Algorithms (DSA)**
+- 💻 Passionate about **Python, C, SQL**
+- 🎯 Interested in **Data Analytics & Problem Solving**
+- 📫 Reach me at: [LinkedIn](https://in.linkedin.com/in/kajal-khutela-746309387) | [Email](mailto: kajalkhutela2509@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=KajalKhutela&color=blue&style=flat)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KajalKhutela&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🛠️ Languages and Tools:
 
@@ -24,3 +32,10 @@ Here are some ideas to get you started:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-FF6F61?style=for-the-badge&logo=leetcode&logoColor=white)
+### 📊 GitHub Stats:
+
+![Kajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=KajalKhutela&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=KajalKhutela&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KajalKhutela&layout=compact&theme=tokyonight)
