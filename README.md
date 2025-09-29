@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 Currently learning **Data Structures & Algorithms (DSA)**
 - 💻 Passionate about **Python, C, SQL**
 - 🎯 Interested in **Data Analytics & Problem Solving**
-- 📫 Reach me at: [LinkedIn](https://in.linkedin.com/in/kajal-khutela-746309387) | [Email](kajalkhutela2509@gmail.com)
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/kajal-khutela-1a0729387) | [Email](kajalkhutela2509@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=KajalKhutela&color=blue&style=flat)
 
 
